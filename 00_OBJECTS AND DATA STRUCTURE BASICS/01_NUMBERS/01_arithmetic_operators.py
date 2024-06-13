@@ -1,0 +1,19 @@
+#Arithmetical Operators
+a=12
+b=5
+print("a=",a)
+print("b=",b)
+c=a+b                                                  #Addition
+print("a+b=",c)
+c=a-b                                                  #Subtraction
+print("a-b=",c)
+c=a*b                                                  #Multiplication
+print("a*b=",c)
+c=a/b                                                  #Division
+print("a/b=",c)
+c=a//b                                                 #Floor Division
+print("a//b=",c)
+c=a**b                                                 #Powers (you can also remove roots with help of this operator)
+print("a**b=",c)
+c=a%b                                                  #Modules
+print("a%b=",c)

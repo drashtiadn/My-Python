@@ -1,0 +1,1 @@
+print(input("Enter Something into this box:"))
